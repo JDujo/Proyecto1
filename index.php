@@ -16,6 +16,8 @@ and open the template in the editor.
             echo "Dos o tres cosas mas";
             echo '<br/>';
             echo "Cuatro o cinco cosas mas";
+            echo '<br/>';
+            echo "Version 1.0";
         ?>
     </body>
 </html>
