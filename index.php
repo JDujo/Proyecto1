@@ -14,6 +14,8 @@ and open the template in the editor.
             echo "Primera liena del proyecto";
             echo '<br/>';
             echo "Dos o tres cosas mas";
+            echo '<br/>';
+            echo "Cuatro o cinco cosas mas";
         ?>
     </body>
 </html>
